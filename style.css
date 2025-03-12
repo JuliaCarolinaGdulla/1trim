@@ -1,0 +1,14 @@
+body {background-color:darkslategray  }
+h1{color: bisque;
+border-width: 5px;
+border-style: double;
+border-color: lightslategray;}
+h2{color: bisque;
+border-style:outset;
+border-radius: 10px;
+margin-left: 10px;
+margin-right: 1600px;}
+p1{color: bisque;}
+img{border-style: double;
+border-color: lightslategray;
+border-width: 10px;}
