@@ -12,9 +12,9 @@ p1{color: bisque;
 font-size: 40px;}
 p2{color: bisque;
 font-size: 40px;}
-img{border-style: double;
+#img{border-style: double;
 border-color: lightslategray;
 border-width: 10px;
 margin-left: 40%;
 margin-right: 60%;}
-img1{border-width: 10px;}
+#img1{border-width: 10px;}
