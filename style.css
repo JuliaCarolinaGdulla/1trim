@@ -17,4 +17,6 @@ border-color: lightslategray;
 border-width: 10px;
 }
 #img1{border-width: 10px;
-border-width: 10px;}
+border-width: 10px;
+border-style: double;
+border-color: lightslategray;}
