@@ -2,7 +2,8 @@ body {background-color:darkslategray  }
 h1{color: bisque;
 border-width: 5px;
 border-style: double;
-border-color: lightslategray;}
+border-color: lightslategray;
+font-size: 10px;}
 h2{color: bisque;
 border-style:outset;
 border-radius: 10px;
