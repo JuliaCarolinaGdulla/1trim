@@ -8,7 +8,8 @@ border-style:outset;
 border-radius: 10px;
 margin-left: 10px;
 margin-right: 1600px;}
-p1{color: bisque;}
+p1{color: bisque;
+font-size: 20px;}
 img{border-style: double;
 border-color: lightslategray;
 border-width: 10px;}
