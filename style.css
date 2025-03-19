@@ -14,5 +14,7 @@ p2{color: bisque;
 font-size: 40px;}
 img{border-style: double;
 border-color: lightslategray;
-border-width: 10px;}
+border-width: 10px;
+margin-left: 40%;
+margin-right: 60%;}
 img{border-width: 10px;}
